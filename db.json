@@ -1,0 +1,42 @@
+{
+    "Accounts": [
+        {
+            "id": 1,
+            "account": "ICICI"
+        },
+        {
+            "id": 2,
+            "account": "SBI"
+        },
+        {
+            "id": 3,
+            "account": "Amazon CC"
+        },
+        {
+            "id": 4,
+            "account": "Kiwi CC"
+        },
+        {
+            "id": 5,
+            "account": "Cash"
+        }
+    ],
+    "Transactions":[
+        {
+            "id": 1,
+            "accountid": 1,
+            "amount": 0,
+            "isExpense": false,
+            "desciption": "Dummy",
+            "date": "2024-02-25T10:00:00Z"
+        },
+        {
+            "id": 2,
+            "accountid": 3,
+            "amount": 70000,
+            "isExpense": false,
+            "desciption": "Balance",
+            "date": "2024-02-25T10:00:00Z"
+        }
+    ]
+}
